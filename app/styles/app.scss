@@ -1,3 +1,10 @@
+$font-1: font-family: 'Lato', sans-serif;
+$font-2: font-family: 'Merriweather', serif;
+$font-accent: font-family: 'Meddon', cursive;
 
+$c-black: #000000;
+$c-white: #fff;
+$c-gray: #818181;
 
 @import 'hero';
+@import 'reset';
